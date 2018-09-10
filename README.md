@@ -120,5 +120,7 @@ pipelines:
           - ./gradlew assembleDebug
 ```
 
+```
 docker images
 docker run -t -i android-ci /bin/bash
+```
